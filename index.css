@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+}
+.item {
+  flex: 1;
+  padding-top: 100px;
+  text-align: center;
+}
+.second-item {
+  flex: 2;
+}
