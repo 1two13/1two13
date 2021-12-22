@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Judy.
 - 👀 I’m interested in front-end.
-- 🌱 I’m currently learning Html, Css, JS. 
+- 🌱 I’m currently learning HTML, CSS, JS. 
 - 📫 My resume is https://1two13.github.io/1two13
