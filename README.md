@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Tory.
 - 👀 I’m interested in front-end.
 - 🌱 I’m currently learning  JS, HTML, CSS.
-- 📫 My resume is https://1two13.github.io/1two13
