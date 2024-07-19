@@ -28,7 +28,6 @@ Background GIF by [kah](https://www.pinterest.co.kr/pin/954692821008283181/) on 
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=1two13&theme=vue-dark&_icons=true" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />&nbsp;&nbsp;
 </p>
 </div>
